@@ -1,2 +1,2 @@
-# python
-Different python projects
+# Python
+Different python projects from "Python Crash Course"
